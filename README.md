@@ -2,7 +2,7 @@
 A collection of SQL projects and challenges showcasing data retrieval, transformation, and database design skills.
 
 ## Projects
-1. [Mobile Manufacturer Data Analysis](./Mobile Manufacturer Data Analysis/)
+1. [Mobile Manufacturer Data Analysis](./mobile-manufacturer-data-analysis/)
 
 ## Technologies
 - SQL (PostgreSQL, MySQL)
